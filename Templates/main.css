@@ -1,0 +1,27 @@
+@import 'https://fonts.googleapis.com/css?family=Lora:400,400i,700|Source+Sans+Pro:700,900';
+@import 'reset';
+@import 'typography';
+
+
+html{
+    font-family: 'Gaegu', cursive;
+}
+body{
+    background-color: gold;
+    text-decoration-color: dimgrey;
+}
+
+.portfolio-piece{
+    background-color: gray;
+}
+
+.work{
+    display: grid;
+    
+}
+.container--flex portfolio{
+    display: grid;
+}
+.Login{
+    color: blue;
+}
